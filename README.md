@@ -1,6 +1,6 @@
 # Song Lyrics Clustering
 
-This project provides tools and scripts for clustering song lyrics using machine learning and natural language processing techniques. The goal is to group songs based on the similarity of their lyrics, enabling deeper analysis of themes, genres, and emotional content in music.
+Clustering song lyrics using machine learning and natural language processing techniques for Data Mining course final project. The goal is to group songs based on the similarity of their lyrics, enabling deeper analysis of themes, genres, and emotional content in music.
 
 ## Features
 
